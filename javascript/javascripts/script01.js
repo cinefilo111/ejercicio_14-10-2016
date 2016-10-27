@@ -1,0 +1,18 @@
+  console.log("----------------------");
+  console.log("Operadores de relación");
+  console.log("----------------------\n");
+  console.log("Mayor que: >  \n");
+  console.log("Menor que: <  \n");
+  console.log("Igual a: ===  \n");
+  console.log("Igual o mayor que: =>  \n");
+  console.log("Igual o menor que: =<  \n");
+  console.log("No es igual a: !==  \n");
+  console.log("\n----------------------");
+  console.log("   Ejemplos de uso");
+  console.log("----------------------\n");
+  console.log("4 es mayor que 8: " + (4>8) + "\n");
+  console.log("4 es menor que 8: " + (4<8) + "\n");
+  console.log("4 es igual que 8: " + (4===8) + "\n");
+  console.log("4 es igual o mayor que 8: " + (4>=8) + "\n");
+  console.log("4 es igual o menor que 8: " + (4<=8) + "\n");
+  console.log("4 no es igual a 8: " + (4!==8) + "\n");
